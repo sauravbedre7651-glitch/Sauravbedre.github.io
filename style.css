@@ -203,9 +203,16 @@ a {
 }
 
 .hero h1 {
-    max-width: 800px;
+    max-width: 850px;
 
-    font-size: clamp(4rem, 6.2vw, 6.8rem);
+    font-size: clamp(3.8rem, 5.3vw, 6rem);
+
+    line-height: 0.94;
+
+    letter-spacing: -0.075em;
+
+    margin-bottom: 30px;
+}
 
     line-height: 0.92;
 
